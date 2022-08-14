@@ -1,0 +1,24 @@
+.works {
+    width: 250px;
+    background-color: darkgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.img {
+    height: 200px;
+    width: 100%;
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title, .description {
+    margin: 5px 5px 0;
+    background-color: burlywood;
+    width: 100%;
+}
+

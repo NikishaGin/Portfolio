@@ -1,0 +1,23 @@
+.ContactsBlock {
+    height: 30vh;
+    background-color: #f5deb3;
+}
+
+.ContactsContainer {
+    flex-direction: column;
+}
+
+.title {
+    background-color: rgb(161, 122, 50);
+}
+
+.Contacts {
+    border: 1px solid;
+    width: 30%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-bottom: 5px;
+}
+
